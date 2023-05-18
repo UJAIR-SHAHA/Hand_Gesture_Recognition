@@ -3,8 +3,10 @@
   <h1>Gesture Volume Control Using OpenCV and MediaPipe</h1>
   <img alt="output" src="images/output.gif" />
  </div>
-> This is a college Project for showing Application and Concepts of Deep Learning in Real Life.
 > This Project uses OpenCV and MediaPipe to Control system volume 
+
+## Introduction
+This is a college Project for showing Application and Concepts of Deep Learning in Real Life.
 
 ## 💾 REQUIREMENTS
 + opencv-python
