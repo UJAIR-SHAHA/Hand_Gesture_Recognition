@@ -57,6 +57,6 @@ Source: [MediaPipe Hands Solutions](https://google.github.io/mediapipe/solutions
 
 If you want to contact me, you can reach me through below handles.
 
-</a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ujair-shaha/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Ujair Shaha</img></a>
-</a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/Nilesh-wani/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Nilesh Wani</img></a>
+</a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ujair-shaha-1b258a205/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Ujair Shaha</img></a>
+</a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/nilesh-wani-7a7053241/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Nilesh Wani</img></a>
 </div>
